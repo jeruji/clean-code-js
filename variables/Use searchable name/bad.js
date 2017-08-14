@@ -1,0 +1,1 @@
+setTimeout(blastOff, 86400000);
