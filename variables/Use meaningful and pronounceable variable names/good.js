@@ -1,0 +1,1 @@
+const currentDate = moment().format('YYYY/MM/DD');

@@ -1,0 +1,1 @@
+const yyyymmdstr = moment().format('YYYY/MM/DD');
